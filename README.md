@@ -1,0 +1,1 @@
+This project aims to deliver evaluation marks for Cloud Computing lab 12 and 13 in which we deployed a static website on vercel (note that the website was already deployed on better site i.e github) and this is a push pull commit lab eval respectively
